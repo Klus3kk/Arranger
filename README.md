@@ -1,2 +1,2 @@
 # Arranger
-File organiser with easy to use UI.
+File organiser with easy-to-use UI.
